@@ -64,6 +64,7 @@ header > p{
     font-family: var(--fonte-destaque);
     color: aliceblue;
     text-shadow: 2px 2px 0px black;
+    padding-bottom: 50px;
     
 
 }
